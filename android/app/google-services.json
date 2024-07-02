@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "599362776939",
+    "project_id": "tt-meet-4051b",
+    "storage_bucket": "tt-meet-4051b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599362776939:android:801284b04bf1a36845262e",
+        "android_client_info": {
+          "package_name": "com.example.tt_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599362776939-c94j2eto34dm6cearh28mb73rtakm1tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tt_meet",
+            "certificate_hash": "beb82df83c2dfe739bda4e018c1946e2cecf2f42"
+          }
+        },
+        {
+          "client_id": "599362776939-7otil3glrkker32mscjo323elrj0jr8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLscWsLMQADWo-K8zraF-Cf_GGu6xjXCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599362776939-7otil3glrkker32mscjo323elrj0jr8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
